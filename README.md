@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hong Jing Xin</h1>
-<h3 align="center">Passionate Mobile & Web Developer | Innovating from Malaysia 🚀</h3>
+<h1 align="left">Hi 👋, I'm Hong Jing Xin</h1>
+<h3 align="left">Passionate Mobile & Web Developer | Innovating from Malaysia 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error404hong&label=Profile%20views&color=62c69c&style=flat" alt="error404hong" /> </p>
 
