@@ -13,6 +13,8 @@
 
 - 👯 I’m looking for opportunities to collaborate on **real-world software projects**
 
+- 🤝 I’m currently working on FYP **AI-Driven Student-Industry Ecosystem**
+
 - 📫 How to reach me **hongjx0321@gmail.com**
 
 - ⚡ Fun fact **I think I'm getting bold—both in coding and in life! 😆💻**
